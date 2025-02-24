@@ -1,0 +1,15 @@
+c:\Users\User\Desktop\Multi-layered architecture\bin\Debug\net9.0\Multi-layered architecture.exe
+C:\Users\User\Desktop\Multi-layered architecture\bin\Debug\net9.0\Multi-layered architecture.deps.json
+C:\Users\User\Desktop\Multi-layered architecture\bin\Debug\net9.0\Multi-layered architecture.runtimeconfig.json
+c:\Users\User\Desktop\Multi-layered architecture\bin\Debug\net9.0\Multi-layered architecture.dll
+c:\Users\User\Desktop\Multi-layered architecture\bin\Debug\net9.0\Multi-layered architecture.pdb
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.AssemblyInfo.cs
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.sourcelink.json
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.dll
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\refint\Multi-layered architecture.dll
+c:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.pdb
+C:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\Multi-layered architecture.genruntimeconfig.cache
+C:\Users\User\Desktop\Multi-layered architecture\obj\Debug\net9.0\ref\Multi-layered architecture.dll
